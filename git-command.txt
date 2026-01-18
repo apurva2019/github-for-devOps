@@ -5,3 +5,10 @@
    git commit -m "added a file"
    git satus
    git status
+    git add .
+   git commit -m "text file to be commited"
+   git remote add origin https://github.com/apurva2019/github-for-devOps.git
+   git remote -v
+   git status
+   git push origin main
+   git push origin main
