@@ -1,0 +1,7 @@
+   git init
+   ls -a
+   git status
+   git add .
+   git commit -m "added a file"
+   git satus
+   git status
